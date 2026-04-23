@@ -1,0 +1,9 @@
+{
+  "name": "code-review-agent",
+  "version": "1.0.0",
+  "description": "APM project for code-review-agent",
+  "author": {
+    "name": "Frank Laule"
+  },
+  "license": "MIT"
+}

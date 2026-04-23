@@ -1,8 +1,10 @@
-name: code-reviewer-agent
+name: code-review-agent
 version: 1.0.0
-description: APM project for code-reviewer-agent
+description: APM project for code-review-agent
 author: Frank Laule
 dependencies:
   apm: []
   mcp: []
+devDependencies:
+  apm: []
 scripts: {}
